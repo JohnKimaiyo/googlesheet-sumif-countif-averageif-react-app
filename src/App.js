@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
@@ -11,11 +11,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://docs.google.com/spreadsheets/d/1jJrza7xLRf5XxnQVvNnukKGRXPW8dqwLj4ejHRuYYqk/edit#gid=0"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Google Sheets -SumIF,CountIF ,AverageIF
         </a>
       </header>
     </div>
